@@ -7,12 +7,15 @@
 5. Update the parameters of the ps1 call in line 22.
 
 Run the pipeline and download the publish artifact.
+
 ![Build](./img/1.png)
 
 ![Download Artifacts](./img/2.png)
 
 Open the download archive and open test.yaml
+
 ![Open test.yaml](./img/3.png)
 
 The file now conains the updated values.
+
 ![updated file](./img/4.png)
