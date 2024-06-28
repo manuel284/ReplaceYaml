@@ -1,0 +1,20 @@
+author: Reddit
+domain:
+- devops
+- devsecops
+published: today
+company: spacelift
+tutorial:
+- yaml:
+    born: 2001
+    name: YAML Ain't Markup Language
+    type: awesome
+- json:
+    born: 2001
+    name: JavaScript Object Notation
+    type: great
+- xml:
+    born: 1996
+    name: Extensible Markup Language
+    type: good
+
